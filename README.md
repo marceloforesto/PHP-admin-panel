@@ -1,5 +1,5 @@
 # PHP-admin-panel
-This project is the implementation of an Admin Panel
+This project is an implementation of an Administration Panel
 ##Panel functions
 - Edit all text of site
 - Edit all titles of site
